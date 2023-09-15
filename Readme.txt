@@ -2,7 +2,6 @@
 
 ---OOP Project by:
   *Azmat Ali Bakht
-  *Ali Azhar 
 
 This is a console based game which requires some instructions to be followed for proper working.
 
